@@ -1,0 +1,683 @@
+[
+   {
+      "column0": "12.7cm_Twin_High-angle_Gun_Mount"
+   },
+   {
+      "column0": "12cm_30-tube_Rocket_Launcher"
+   },
+   {
+      "column0": "Type_21_Air_Radar"
+   },
+   {
+      "column0": "46cm_Triple_Gun_Mount"
+   },
+   {
+      "column0": "15.5cm_Triple_Secondary_Gun_Mount"
+   },
+   {
+      "column0": "20.3cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "15.5cm_Triple_Gun_Mount"
+   },
+   {
+      "column0": "Type_0_Reconnaissance_Seaplane"
+   },
+   {
+      "column0": "7.7mm_Machine_Gun"
+   },
+   {
+      "column0": "25mm_Twin_Autocannon_Mount"
+   },
+   {
+      "column0": "61cm_Quadruple_Torpedo_Mount"
+   },
+   {
+      "column0": "61cm_Quadruple_(Oxygen)_Torpedo_Mount"
+   },
+   {
+      "column0": "25mm_Triple_Autocannon_Mount"
+   },
+   {
+      "column0": "14cm_Single_Gun_Mount"
+   },
+   {
+      "column0": "12.7cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "41cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "35.6cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "12cm_Single_Gun_Mount"
+   },
+   {
+      "column0": "10cm_Twin_High-angle_Gun_Mount"
+   },
+   {
+      "column0": "15.2cm_Single_Gun_Mount"
+   },
+   {
+      "column0": "61cm_Triple_Torpedo_Mount"
+   },
+   {
+      "column0": "Type_97_Torpedo_Bomber"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_21"
+   },
+   {
+      "column0": "Type_96_Fighter"
+   },
+   {
+      "column0": "Tenzan"
+   },
+   {
+      "column0": "Ryuusei"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_52"
+   },
+   {
+      "column0": "Type_99_Dive_Bomber"
+   },
+   {
+      "column0": "Suisei"
+   },
+   {
+      "column0": "Zuiun"
+   },
+   {
+      "column0": "Type_33_Surface_Radar"
+   },
+   {
+      "column0": "Type_32_Surface_Radar"
+   },
+   {
+      "column0": "Improved_Kanhon_Type_Turbine"
+   },
+   {
+      "column0": "Enhanced_Kanhon_Type_Boiler"
+   },
+   {
+      "column0": "Type_3_Shell"
+   },
+   {
+      "column0": "Type_91_Armor_Piercing_Shell"
+   },
+   {
+      "column0": "12.7mm_Single_Machine_Gun_Mount"
+   },
+   {
+      "column0": "Emergency_Repair_Personnel"
+   },
+   {
+      "column0": "Emergency_Repair_Goddess"
+   },
+   {
+      "column0": "Type_94_Depth_Charge_Projector"
+   },
+   {
+      "column0": "Type_3_Depth_Charge_Projector"
+   },
+   {
+      "column0": "Type_93_Passive_Sonar"
+   },
+   {
+      "column0": "Type_3_Active_Sonar"
+   },
+   {
+      "column0": "25mm_Single_Autocannon_Mount"
+   },
+   {
+      "column0": "Ryuusei_Kai"
+   },
+   {
+      "column0": "Reppuu_Kai"
+   },
+   {
+      "column0": "Saiun"
+   },
+   {
+      "column0": "Shiden_Kai_2"
+   },
+   {
+      "column0": "Shinden_Kai"
+   },
+   {
+      "column0": "Type_13_Air_Radar"
+   },
+   {
+      "column0": "20.3cm_(No.3)_Twin_Gun_Mount"
+   },
+   {
+      "column0": "61cm_Quintuple_(Oxygen)_Torpedo_Mount"
+   },
+   {
+      "column0": "Type_0_Observation_Seaplane"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_62_(Fighter-bomber)"
+   },
+   {
+      "column0": "Type_2_Reconnaissance_Aircraft"
+   },
+   {
+      "column0": "Prototype_Seiran"
+   },
+   {
+      "column0": "12.7cm_Twin_Gun_Mount_Model_B_Kai_2"
+   },
+   {
+      "column0": "Ju_87C_Kai"
+   },
+   {
+      "column0": "15.2cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "8cm_High-angle_Gun"
+   },
+   {
+      "column0": "53cm_Bow_(Oxygen)_Torpedo_Mount"
+   },
+   {
+      "column0": "Ka_Type_Observation_Autogyro"
+   },
+   {
+      "column0": "Type_3_Command_Liaison_Aircraft_(ASW)"
+   },
+   {
+      "column0": "10cm_Twin_High-angle_Gun_Mount_(Carriage)"
+   },
+   {
+      "column0": "Anti-torpedo_Bulge_(Medium)"
+   },
+   {
+      "column0": "Anti-torpedo_Bulge_(Large)"
+   },
+   {
+      "column0": "Searchlight"
+   },
+   {
+      "column0": "Drum_Canister_(Transport_Use)"
+   },
+   {
+      "column0": "12.7cm_Single_Gun_Mount"
+   },
+   {
+      "column0": "38cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "15cm_Twin_Secondary_Gun_Mount"
+   },
+   {
+      "column0": "Zuiun_Model_12"
+   },
+   {
+      "column0": "Tenzan_(931_Air_Group)"
+   },
+   {
+      "column0": "Type_97_Torpedo_Bomber_(931_Air_Group)"
+   },
+   {
+      "column0": "2cm_Flakvierling_38"
+   },
+   {
+      "column0": "3.7cm_FlaK_M42"
+   },
+   {
+      "column0": "Zuiun_Model_12_(634_Air_Group)"
+   },
+   {
+      "column0": "New_Model_High_Temperature_High_Pressure_Boiler"
+   },
+   {
+      "column0": "Equipment_List_(Image)"
+   },
+   {
+      "column0": "Suisei_(601_Air_Group)"
+   },
+   {
+      "column0": "Ryuusei_(601_Air_Group)"
+   },
+   {
+      "column0": "Reppuu_(601_Air_Group)"
+   },
+   {
+      "column0": "Ar196_Kai"
+   },
+   {
+      "column0": "Prototype_46cm_Twin_Gun_Mount"
+   },
+   {
+      "column0": "Type_1_Armor_Piercing_Shell"
+   },
+   {
+      "column0": "Partials/Type_0_Aircraft"
+   },
+   {
+      "column0": "Equipment"
+   },
+   {
+      "column0": "Skilled_Lookouts"
+   },
+   {
+      "column0": "Type_0_Passive_Sonar"
+   },
+   {
+      "column0": "381mm/50_Triple_Gun_Mount"
+   },
+   {
+      "column0": "Ro.43_Reconnaissance_Seaplane"
+   },
+   {
+      "column0": "203mm/53_Twin_Gun_Mount"
+   },
+   {
+      "column0": "Type_22_Surface_Radar_Kai_4"
+   },
+   {
+      "column0": "Type_21_Air_Radar_Kai"
+   },
+   {
+      "column0": "Type_13_Air_Radar_Kai"
+   },
+   {
+      "column0": "FuMO25_Radar"
+   },
+   {
+      "column0": "Type_32_Surface_Radar_Kai"
+   },
+   {
+      "column0": "15m_Duplex_Rangefinder_+_Type_21_Radar_Kai_Ni"
+   },
+   {
+      "column0": "Bofors_40mm_Quadruple_Autocannon_Mount"
+   },
+   {
+      "column0": "Type_96_Land-based_Attack_Aircraft"
+   },
+   {
+      "column0": "Type_1_Land-based_Attack_Aircraft"
+   },
+   {
+      "column0": "Ro.44_Seaplane_Fighter"
+   },
+   {
+      "column0": "Type_2_Seaplane_Fighter_Kai"
+   },
+   {
+      "column0": "Prototype_61cm_Sextuple_(Oxygen)_Torpedo_Mount"
+   },
+   {
+      "column0": "Special_Type_2_Amphibious_Tank"
+   },
+   {
+      "column0": "Daihatsu_Landing_Craft"
+   },
+   {
+      "column0": "Daihatsu_Landing_Craft_(Type 89_Medium_Tank_&_Landing_Force)"
+   },
+   {
+      "column0": "Toku_Daihatsu_Landing_Craft"
+   },
+   {
+      "column0": "Toku_Daihatsu_Landing_Craft_+_11th_Tank_Regiment"
+   },
+   {
+      "column0": "12.7mm_Machine_Gun"
+   },
+   {
+      "column0": "Abyssal_Fighter"
+   },
+   {
+      "column0": "Abyssal_Dive_Bomber"
+   },
+   {
+      "column0": "Abyssal_Torpedo_Bomber"
+   },
+   {
+      "column0": "Abyssal_Cat_Fighter"
+   },
+   {
+      "column0": "Abyssal_Hell_Dive_Bomber"
+   },
+   {
+      "column0": "Abyssal_Revenge_Torpedo_Bomber"
+   },
+   {
+      "column0": "Abyssal_Revenge_Torpedo_Bomber_Kai"
+   },
+   {
+      "column0": "Abyssal_Hell_Dive_Bomber_Kai"
+   },
+   {
+      "column0": "Abyssal_Attack_Seaplane_Kai"
+   },
+   {
+      "column0": "6inch_Twin_Rapid_Fire_Gun_Mount"
+   },
+   {
+      "column0": "5inch_Single_Anti-Aircraft_Gun_Mount"
+   },
+   {
+      "column0": "5inch_Twin_Gun_Mount"
+   },
+   {
+      "column0": "High-speed_Abyssal_Torpedo"
+   },
+   {
+      "column0": "16inch_Triple_Gun_Mount"
+   },
+   {
+      "column0": "21inch_Torpedo_Late_Model"
+   },
+   {
+      "column0": "21inch_Torpedo_Early_Model"
+   },
+   {
+      "column0": "16inch_Twin_Gun_Mount"
+   },
+   {
+      "column0": "12.5inch_Twin_Secondary_Gun_Mount"
+   },
+   {
+      "column0": "8inch_Triple_Gun_Mount"
+   },
+   {
+      "column0": "5inch_Single_Gun_Mount"
+   },
+   {
+      "column0": "3inch_Single_High-angle_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_Attack_Seaplane"
+   },
+   {
+      "column0": "Abyssal_Cat_Fighter_Kai"
+   },
+   {
+      "column0": "14inch_Twin_Gun_Mount"
+   },
+   {
+      "column0": "5inch_Single_Anti-Aircraft_Gun_Mount_(Secondary)"
+   },
+   {
+      "column0": "6inch_Single_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_Torpedo_Bomber_Mark.II"
+   },
+   {
+      "column0": "Abyssal_Torpedo_Bomber_Mark.III"
+   },
+   {
+      "column0": "Abyssal_Dive_Bomber_Mark.II"
+   },
+   {
+      "column0": "Abyssal_Fighter_Mark.II"
+   },
+   {
+      "column0": "Abyssal_Fighter_Mark.III"
+   },
+   {
+      "column0": "Flying_Fish_Fighter"
+   },
+   {
+      "column0": "Abyssal_Reconnaissance_Plane"
+   },
+   {
+      "column0": "Flying_Fish_Reconnaissance_Plane"
+   },
+   {
+      "column0": "Air_Radar_Mark.I"
+   },
+   {
+      "column0": "Air_Radar_Mark.II"
+   },
+   {
+      "column0": "Surface_Radar_Mark.I"
+   },
+   {
+      "column0": "Surface_Radar_Mark.II"
+   },
+   {
+      "column0": "Abyssal_Surface_Radar"
+   },
+   {
+      "column0": "Abyssal_Air_Radar"
+   },
+   {
+      "column0": "Improved_Abyssal_Turbine"
+   },
+   {
+      "column0": "Enhanced_Abyssal_Boiler"
+   },
+   {
+      "column0": "Anti-Air_Dispersal_Shell"
+   },
+   {
+      "column0": "Deterioration_Armor_Piercing_Shell"
+   },
+   {
+      "column0": "20mm_Autocannon"
+   },
+   {
+      "column0": "40mm_Twin_Autocannon_Mount"
+   },
+   {
+      "column0": "40mm_Quadruple_Autocannon_Mount"
+   },
+   {
+      "column0": "Abyssal_Cuttlefish_Torpedo"
+   },
+   {
+      "column0": "Abyssal_Depth_Charge_Projector"
+   },
+   {
+      "column0": "Abyssal_Depth_Charge_Projector_Mk.II"
+   },
+   {
+      "column0": "Abyssal_Sonar"
+   },
+   {
+      "column0": "Abyssal_Sonar_Mk.II"
+   },
+   {
+      "column0": "Flying_Fish_Dive_Bomber"
+   },
+   {
+      "column0": "5inch_Twin_Dual_Purpose_Gun_Mount"
+   },
+   {
+      "column0": "20inch_Twin_Gun_Mount"
+   },
+   {
+      "column0": "15inch_Coastal_Artillery"
+   },
+   {
+      "column0": "4inch_Twin_Dual_Purpose_Gun_Mount_+_CIC"
+   },
+   {
+      "column0": "Abyssal_FCS_+_CIC"
+   },
+   {
+      "column0": "Abyssal_Searchlight"
+   },
+   {
+      "column0": "Abyssal_Liberation_Land-based_Dive_Bomber"
+   },
+   {
+      "column0": "Abyssal_Liberation_Land-based_Dive_Bomber_Ace"
+   },
+   {
+      "column0": "8inch_Long_Range_Twin_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_Reconnaissance_Observation_Seaplane"
+   },
+   {
+      "column0": "5inch_Coastal_Gun"
+   },
+   {
+      "column0": "Abyssal_Cat_Fighter_(Bombing)"
+   },
+   {
+      "column0": "Coastal_Radar"
+   },
+   {
+      "column0": "16inch_Triple_Gun_Mount_(Strong)"
+   },
+   {
+      "column0": "Abyssal_Reconnaissance_Flying_Boat"
+   },
+   {
+      "column0": "High-speed_Abyssal_Torpedo_mod.2"
+   },
+   {
+      "column0": "Abyssal_Bearcat_Fighter"
+   },
+   {
+      "column0": "Abyssal_Seaplane_Tender_Imp_Aircraft"
+   },
+   {
+      "column0": "Abyssal_Submarine_Floatplane"
+   },
+   {
+      "column0": "Abyssal_12inch_Triple_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_Patrolling_Attack_Hawk"
+   },
+   {
+      "column0": "Abyssal_Patrolling_Attack_Hawk_Kai"
+   },
+   {
+      "column0": "Abyssal_15inch_Quadruple_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_15inch_Late_Model_Twin_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_14inch_Strait_Double_Gun_Mount"
+   },
+   {
+      "column0": "Abyssal_Ambush_Torpedo"
+   },
+   {
+      "column0": "Abyssal_Night_Cat_Fighter"
+   },
+   {
+      "column0": "Abyssal_Night_Dive_Bomber"
+   },
+   {
+      "column0": "Abyssal_Night_Revenge_Torpedo_Bomber"
+   },
+   {
+      "column0": "Abyssal_16inch_Triple_Gun_Mount_Kai"
+   },
+   {
+      "column0": "Abyssal_14inch_Twin_Gun_Mount_Kai"
+   },
+   {
+      "column0": "Abyssal_Patrolling_Attack_Hawk_Kai_Ni"
+   },
+   {
+      "column0": "Abyssal_16inch_Triple_Gun_Mount_Kai_Ni"
+   },
+   {
+      "column0": "Zero_Fighter_Model_52C_(601_Air_Group)"
+   },
+   {
+      "column0": "Reppuu_(601_Air_Group)"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_21_(Skilled)"
+   },
+   {
+      "column0": "Reppuu_Kai"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_52"
+   },
+   {
+      "column0": "Shinden_Kai"
+   },
+   {
+      "column0": "Reppuu"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_21"
+   },
+   {
+      "column0": "Shiden_Kai_2"
+   },
+   {
+      "column0": "Type_96_Fighter"
+   },
+   {
+      "column0": "Shiden_Kai_4"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_32"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_32_(Skilled)"
+   },
+   {
+      "column0": "Type_96_Fighter_Kai"
+   },
+   {
+      "column0": "F6F-5"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_52_(Skilled)"
+   },
+   {
+      "column0": "Zero_Fighter_Model_52A_(w/_Iwamoto_Flight)"
+   },
+   {
+      "column0": "Zero_Fighter_Model_21_(w/_Iwamoto_Flight)"
+   },
+   {
+      "column0": "Zero_Fighter_Model_52C_(w/_Iwai_Flight)"
+   },
+   {
+      "column0": "Type_0_Fighter_Model_53_(Iwamoto_Squadron)"
+   },
+   {
+      "column0": "Bf_109T_Kai"
+   },
+   {
+      "column0": "Fw_190T_Kai"
+   },
+   {
+      "column0": "Seafire_Mk.III_Kai"
+   },
+   {
+      "column0": "Fulmar"
+   },
+   {
+      "column0": "F6F-3N"
+   },
+   {
+      "column0": "F6F-5N"
+   },
+   {
+      "column0": "F4F-3"
+   },
+   {
+      "column0": "F4F-4"
+   },
+   {
+      "column0": "F6F-3"
+   },
+   {
+      "column0": "Re.2001_OR_Kai"
+   },
+   {
+      "column0": "Re.2005_Kai"
+   }
+]
